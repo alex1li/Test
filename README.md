@@ -7,3 +7,4 @@ Testing branching
 
 Testing muliple branches
 
+Testing edits without downloading most recent master
