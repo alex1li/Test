@@ -7,3 +7,4 @@ Testing branching
 
 Testing muliple branches
 
+Testing with multiple copies of the repo
